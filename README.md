@@ -1,1 +1,2 @@
 # 328-preg3
+en la carpeta de php se encuentra la pagina principal mediante la cual redirecciona para poder enviar los datos a NETBEANS Y C#, AHORA EN LA carpeta de WEBSITE7 se encuentra el codigo de C#, en la carpeta comprimida de WEBAPLICATION2 se encuentra el codigo de NETBEANS el cual esta en .zip por que git no admite la carpeta completa, para lo cual adjuntare un word con la corrida de las paginas.
